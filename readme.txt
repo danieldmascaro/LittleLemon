@@ -1,0 +1,2 @@
+restaurant/menú/
+restaurant/booking/
